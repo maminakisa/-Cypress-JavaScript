@@ -1,1 +1,1 @@
-# -Python-Selenium-Allure
+Задание на практику по автотестам Cypress JavaScript
